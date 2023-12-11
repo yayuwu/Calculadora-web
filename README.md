@@ -18,6 +18,8 @@ Puedes crear una calculadora web o bien crear una versión de Aplicación Móvil
 
 ## Screenshots y vista previa
 
+img/calculadora-web.jpg
+
 ## Instalación
 
 
