@@ -15,12 +15,10 @@ Puedes crear una calculadora web o bien crear una versión de Aplicación Móvil
 ¡Adelante, haz que los números cobren vida! ;)
 
 ## Stack utilizado
-Lenguajes, tecnología y frameworks utilizados en el desarrollo
 
 ## Screenshots y vista previa
-Screenshots o enlace a la vista previa del trabajo finalizado
 
 ## Instalación
-Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
+
 
 
