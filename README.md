@@ -23,6 +23,4 @@ Screenshots o enlace a la vista previa del trabajo finalizado
 ## Instalación
 Instrucciones para otros desarrolladores sobre cómo instalar y ejecutar tu código en su entorno local.
 
-## Licencia
-[MIT](https://choosealicense.com/licenses/mit/)
-La mayoría de los proyectos de código abierto utilizan la licencia MIT. Siéntete libre de elegir la licencia que prefieras
+
