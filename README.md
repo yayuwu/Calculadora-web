@@ -18,7 +18,7 @@ Puedes crear una calculadora web o bien crear una versión de Aplicación Móvil
 
 ## Screenshots y vista previa
 
-![2y10qd8fxcjqa15bpnvh9hfeceisn82lnkvw9cowsgo4xyv0ij2wiwra](https://github.com/yayuwu/Calculadora-web/assets/141045577/03ed839d-5db7-4c5f-9c1f-724ba5f58f91)
+![](img/calculadora-web.jpg)
 
 ## Instalación
 
