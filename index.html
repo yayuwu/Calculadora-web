@@ -7,14 +7,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="css/calculadora.css">
     <script src="js/Display.js"></script>
-    <script src="js/Calculadora.js"></script>
     <script src="js/index.js" defer></script>
 </head>
 <body>
     <div class="container calculadora-estilos">
         <div class="display">
             <div class="row">
-                <div type="text" class="col" id="display-actual-value">0</div>
+                <div type="text" class="col" id="display-actual-value" data-value="">0</div>
             </div>
             <div class="row">
                 <div type="text" class="col" id="display-math-value"></div>
@@ -28,7 +27,7 @@
                 <button class="rounded-circle btn-gris operator" value="negate" onclick="display.negate()">+/-</button>
             </div>
             <div class="col">
-                <button class="rounded-circle btn-gris operator" value=" percentage" onclick="display.percentege()">%</button>
+                <button class="rounded-circle btn-gris operator" value=" percentage" onclick="display.percentage()">%</button>
             </div>
             <div class="col">
                 <button class="rounded-circle btn-naranja operator" value="divide" onclick="display.divide()">/</button>
@@ -85,11 +84,11 @@
                 <button class="rounded-pill btn-text number">0</button>
             </div>
             <div class="col-3">
-                <button class="rounded-circle">.</button>
+                <button class="rounded-circle number">.</button>
                 
             </div>
             <div class="col-3">
-                <button class="rounded-circle btn-naranja operator equal" value="equal">=</button>
+                <button class="rounded-circle btn-naranja operator equal" value="equal" onclick="display.equal()">=</button>
 
             </div>
         </div>
