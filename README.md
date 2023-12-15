@@ -14,13 +14,10 @@ Puedes crear una calculadora web o bien crear una versión de Aplicación Móvil
 
 ¡Adelante, haz que los números cobren vida! ;)
 
-## Stack utilizado
-
 ## Screenshots y vista previa
 
 ![](img/calculadora-web.jpg)
 
-## Instalación
 
 
 
